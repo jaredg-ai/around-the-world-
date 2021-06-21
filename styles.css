@@ -1,0 +1,41 @@
+body {
+    background: rgb(120, 104, 190);
+    margin: 1rem;
+    padding: 1rem;
+    max-width: 500px;
+    margin: 2rem auto;
+    font-family: "Open Sans", sans-serif;
+  }
+  
+  nav {
+      border-bottom: 2px solid rgb(250, 249, 247);
+  }
+  
+  ol {
+      padding-left: 0;
+  }
+  
+  .crumb {
+      margin-right: 2em;
+      display: inline;
+  }
+  
+  a {
+      color: rgb(250, 249, 247);
+  }
+  
+  
+  img {
+      max-width: 500px;
+  }
+
+  button {
+      border: none;
+      color: rgb(10, 10, 10);
+      padding: auto;
+      text-align: center;
+      text-decoration: none;
+      display: inline;
+      font-size: medium;
+      cursor: pointer;
+  }
